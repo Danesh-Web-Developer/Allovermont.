@@ -1,0 +1,84 @@
+@font-face {
+    font-family: Poppins;
+    src: url(./fonts/Poppins-Medium.ttf);
+}
+*{
+    font-family: Poppins;
+}
+.top{
+    margin-top: 35px !important;
+}
+.nav{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 20px;
+}
+/* .headbtn{
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 18px;
+    background-color: rgb(1, 88, 20);
+    color: white;
+    margin-right: 15px;
+} */
+.topdiv{
+    padding-top: 50px;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 55px;
+}
+span{
+    color: rgb(2, 100, 23);
+}
+.headpara{
+    font-size: large;
+    padding-top: 20px;
+}
+.learnbtn{
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 18px;
+    background-color: rgb(1, 88, 20);
+    color: white;
+    margin-top: 15px;
+}
+.rowbtn{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    gap: 20px;
+}
+.backimg{
+    width: 100%;
+}
+.cardimg{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.para{
+    font-size: 35px;
+    text-align: start;
+}
+.bodylastimg{
+    width: 100%;
+    margin-top: 40px;
+}
+.foot{
+    border-top: 1px solid gray;
+    margin-top: 70px;
+}
+.conatinerfoot{
+    border-bottom: 1px solid gray;
+}
+.ul{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding-bottom: 25px;
+}
+.a{
+    text-decoration: none;
+    color: black;
+}

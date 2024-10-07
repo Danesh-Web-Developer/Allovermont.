@@ -1,0 +1,19 @@
+@media only screen and (min-width:0px) and (max-width:991px){
+    .headbtn{
+        display: none !important;
+}
+}
+@media only screen and (min-width:0px) and (max-width:700px){
+    .heading{
+        font-size: 35px !important;
+}
+}
+
+
+
+
+
+
+
+
+
